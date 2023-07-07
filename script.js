@@ -1,7 +1,5 @@
-function threeSum(arr, target) {
-// write your code here
-  const res= target.toString(2);
-	console.log(res);
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-module.exports = threeSum;
+window.decimalToBinary = decimalToBinary;
